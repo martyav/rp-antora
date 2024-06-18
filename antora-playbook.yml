@@ -1,11 +1,11 @@
 site:
   title: Rancher documentation
   url: /
-  start_page: main@rp-antora::rancher-manager.adoc
+  start_page: main@rp-antora::about-rancher/rancher-manager.adoc
 
 content:
   sources:
-  - url: https://github.com/martyav/rp-antora
+  - url: ./
     branches: [main]
 
 ui:

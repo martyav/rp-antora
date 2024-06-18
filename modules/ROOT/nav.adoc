@@ -1,15 +1,15 @@
-* xref:rancher-manager.adoc[What is Rancher?]
-* Getting Started
-** xref:overview.adoc[Overview]
-** xref:getting-started/quick-start-guides/quick-start-guides.adoc[Quick Start Guides]
-*** xref:getting-started/deploy-workloads/deploy-workloads.adoc[Deploying Workloads]
-*** xref:getting-started/deploy-workloads/workload-ingress.adoc[Workload with Ingress Quick Start]
-* How-to Guides
-* Reference Guides
-* Integrations in Rancher
-* FAQ
+* Release Notes
+* About Rancher
+** xref:about-rancher/rancher-manager.adoc[What is Rancher?]
+** xref:about-rancher/prime.adoc[Rancher Prime]
+** xref:about-rancher/overview.adoc[Overview]
+* Prime Installation and Upgrades
+* Rancher Administration
+* Cluster Administration
+* Security
+* Downstream Hosted Cluster Setup
+* Integrations
+* Observability
+* API
 * Troubleshooting
-* Rancher Kubernetes API
 * Contributing to Rancher
-* Glossary
-* Test
